@@ -1,0 +1,164 @@
+{
+    "name": "MONISH SUDHAGAR",
+    "summary": null,
+    "phone": "+919342484882",
+    "email": "monish.sudhagar@outlook.com",
+    "media": {
+        "linkedin": "https://www.linkedin.com/in/monish-sudhagar-a51191224/",
+        "github": "https://github.com/Monish997",
+        "medium": null,
+        "devpost": null
+    },
+    "work_experience": [
+        {
+            "role": "Software Engineer Intern",
+            "company": "Intuit Inc",
+            "location": "Bengaluru",
+            "from_date": "MAY 2024",
+            "to_date": "AUG 2024",
+            "description": [
+                "Worked on developing a new workstream orchestration platform from the ground up.",
+                "Led end-to-end development and testing for notifications integration in the application, securing endpoints using internal authorization tools.",
+                "Developed custom authorization flow for service-to-service communication across REST and GraphQL endpoints."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Tech. in Computer Science",
+            "university": "Vellore Institute of Technology, Chennai",
+            "from_date": "SEP 2021",
+            "to_date": "PRESENT",
+            "courses": [
+                "Data Structures and Algorithms",
+                "Computer Networks",
+                "Software Development",
+                "Database Management",
+                "Operating Systems"
+            ]
+        },
+        {
+            "degree": "CBSE Class 12",
+            "university": "Indian School Al Maabela, Sultanate of Oman",
+            "from_date": "MAY 2021",
+            "to_date": "MAY 2021",
+            "courses": [
+                "Maths",
+                "Physics",
+                "Chemistry",
+                "English",
+                "Computer Science"
+            ]
+        },
+        {
+            "degree": "CBSE Class 10",
+            "university": "Indian School Al Maabela, Sultanate of Oman",
+            "from_date": "MAY 2019",
+            "to_date": "MAY 2019",
+            "courses": [
+                "Maths",
+                "Science",
+                "English",
+                "Hindi",
+                "Social Studies"
+            ]
+        }
+    ],
+    "skill_section": [
+        {
+            "name": "Programming Languages",
+            "skills": [
+                "Python",
+                "C++",
+                "Java",
+                "SQL",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Technologies",
+            "skills": [
+                "Flask",
+                "Django",
+                "Spring Boot",
+                "React",
+                "Git",
+                "Selenium",
+                "REST APIs",
+                "Machine Learning",
+                "AWS Services"
+            ]
+        },
+        {
+            "name": "Soft Skills",
+            "skills": [
+                "Multilingual (English, Hindi, Tamil, German)",
+                "Team worker"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "SureSol Women Safety App",
+            "type": "Project for KAVACH23 National Hackathon",
+            "link": null,
+            "resources": null,
+            "from_date": "MAR 2023",
+            "to_date": null,
+            "description": [
+                "Uses speech-to-text and AI object detection to trigger SOS alerts without user interaction by analysing surrounding threats.",
+                "Features: User Authentication, OTP verification, Realtime Threat Analysis, WhatsApp and SMS SOS alerts with location Info, Chat Forum, Safety Tips, Danger Heat Map.",
+                "Technologies: Python, Flask, Flutter, Firebase, Google MLKit, Google Maps API, Twilio APIs"
+            ]
+        },
+        {
+            "name": "Rating Predictor",
+            "type": "MLH Global Hack Week: Init",
+            "link": null,
+            "resources": null,
+            "from_date": "JUL 2022",
+            "to_date": null,
+            "description": [
+                "Predicts the star rating of a given review using advanced neural network-based NLP model.",
+                "Techniques Used: Word Lemmatization, Logistic Regression, Vectorization, Embedding.",
+                "Technologies: Python, SciPy, TensorFlow, Keras, NLTK."
+            ]
+        },
+        {
+            "name": "Other Projects",
+            "type": null,
+            "link": null,
+            "resources": null,
+            "from_date": null,
+            "to_date": null,
+            "description": [
+                "AI virtual mouse using OpenCV and PyTorch for hand tracking in Python.",
+                "Raytracing in Python (multi-core) using Numpy for vectors calculations and PIL for exporting rendered scene.",
+                "CLI manga downloader using requests_html and asyncio python to quickly download and manage manga chapters.",
+                "Python stock market strategies backtesting and data visualization using TA-Lib and Plotly.",
+                "Realtime Options Trading system using ICICI Breeze API"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AWS Certified Solutions Architect",
+            "by": "Amazon Web Services (AWS)",
+            "link": null
+        },
+        {
+            "name": "Data Analytics with Python",
+            "by": "NPTEL, IIT Roorkee",
+            "link": null
+        }
+    ],
+    "achievements": [
+        "Two-time University Rank 1 in Vellore Institute of Technology Computer Science Branch",
+        "Codeforces: Rating 1511 | Rank Specialist",
+        "Leetcode: Rating 1813 | Top 7%",
+        "Codewars: Rank 4-Kyu Experience",
+        "Completed the course and secured 92% Top 1% Elite Rank + Gold Medal"
+    ]
+}
